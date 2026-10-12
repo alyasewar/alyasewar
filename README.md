@@ -10,13 +10,11 @@
 
 ### Languages I build with
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Python, C++, JavaScript, HTML, and CSS" />
-  </a>
-</p>
+<!-- LANGUAGES:START -->
 
-`Python` · `C++` · `JavaScript` · `HTML` · `CSS`
+Language chart awaiting its first refresh. Includes public and private repositories once configured.
+
+<!-- LANGUAGES:END -->
 
 ### A few things I've built
 
