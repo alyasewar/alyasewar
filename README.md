@@ -6,6 +6,10 @@
   <a href="https://github.com/alyasewar?tab=repositories">explore my projects ↗</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alyasewar&amp;label=Profile+views&amp;color=a78bfa&amp;style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ### Languages I build with
