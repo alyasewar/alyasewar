@@ -16,7 +16,9 @@
 
 <!-- LANGUAGES:START -->
 
-Language chart awaiting its first refresh. Includes public and private repositories once configured.
+![Languages across my public and private repositories](assets/languages.svg)
+
+<sub>Refreshed daily. Percentages reflect code size, not coding time or proficiency.</sub>
 
 <!-- LANGUAGES:END -->
 
